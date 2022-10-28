@@ -25,7 +25,7 @@ export default function Home() {
           <p className='justify-self-center'>rates for your trip to India.</p>
           </div>
           <div id="emailForm" className='justify-self-center'>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqgOfavNLG75tJ4Q_vC6FRpD23-JPISy4mhwvnw40H-_FFXA/viewform?embedded=true" width="640" height="542" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqgOfavNLG75tJ4Q_vC6FRpD23-JPISy4mhwvnw40H-_FFXA/viewform?embedded=true" width="640" height="542" frameBorder="0" marginHeight={0} marginWidth={0}>Loading…</iframe>
           </div>
         </section>
       </main>
